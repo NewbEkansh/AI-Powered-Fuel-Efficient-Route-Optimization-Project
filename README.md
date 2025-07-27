@@ -1,5 +1,5 @@
 # AI-Powered-Fuel-Efficient-Route-Optimization-Project
-Project Overview
+Project Overview:
 This project moves beyond traditional navigation by developing a system to find the most fuel-efficient route between two points, rather than just the shortest or fastest. By creating a custom "fuel cost" metric based on road distance and elevation, this project demonstrates how graph theory and external APIs can be combined to solve complex, real-world logistics problems.
 
 The final output is an interactive map that visually compares the standard shortest route with the calculated eco-friendly route, providing a clear and quantifiable measure of potential fuel savings. This entire analysis was performed on the street network of Vellore, Tamil Nadu, India.
